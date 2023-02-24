@@ -15,7 +15,7 @@
 
 	// Hostname or IP address for server.  Use '' for UNIX domain socket.
 	// use 'localhost' for TCP/IP connection on this computer
-	$conf['servers'][0]['host'] = '';
+	$conf['servers'][0]['host'] = 'renderpostgres:5idIdDlyQBdkAJzqz5KVAc7nhYzZgeVQ@dpg-cfsf9s1mbjshr9go8kl0-a.oregon-postgres.render.com/renderpostgres_lci9';
 
 	// Database port on server (5432 is the PostgreSQL default)
 	$conf['servers'][0]['port'] = 5432;
